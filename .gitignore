@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.env
+venv/
+.venv/
+env/
+
+# OS generated files
+.DS_Store
+.ipynb_checkpoints/
+
+# Machine Learning models/data
+*.pkl
